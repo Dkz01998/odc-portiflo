@@ -159,7 +159,7 @@ function App() {
                 <img class="w-40" src="https://api.multiavatar.com/JB.svg " alt="JB image" />
               </div>
               <div id="content" class="prose lg:prose-xl px-2">
-                <h1 class="text-center text-gray-800 text-4xl capitalize font-medium">Daniel K Zoegar Jr</h1>
+                <h1 class="text-center text-gray-800 text-4xl capitalize font-medium">Daniel K Zoegar Jrvc</h1>
                 <small class="text-center block text-md text-gray-800">Writer, Teacher &amp; Software Engineer</small>
                 <p class="text-justify text-lg text-gray-800">Lorem ipsum dolor sit amet consectetur adipisicing elit.
                   Veritatis vero voluptates vitae rerum eos non laboriosam deleniti voluptatibus ipsum blanditiis
